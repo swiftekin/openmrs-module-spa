@@ -18,7 +18,7 @@
 
     <globalProperty>
         <property>spa.local.directory</property>
-        <defaultValue>frontend</defaultValue>
+        <defaultValue>/opt/tomcat/webapps/openmrs/frontend</defaultValue>
         <description>The directory containing the Frontend 3.0 application's `index.html`. Can be an absolute path, or relative to the application data directory.</description>
     </globalProperty>
 
